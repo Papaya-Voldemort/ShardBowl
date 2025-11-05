@@ -19,7 +19,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 - **Kelsier (Cognitive Shadow)**  
   - First Appearance: *Mistborn: Secret History*  
   - Powers: Cognitive persistence, meddling with worldhopping  
-  - Tidbit: Refused to pass on after death, continues to influence the Cosmere.
+  - Tidbit: Refused to pass on after death, continues to influence the Cosmere, can't leave the cognitive realm without an external aid.
 
 - **Vin (Street Urchin)**  
   - First Appearance: *Mistborn: The Final Empire*  
@@ -54,7 +54,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 - **Sazed (Harmony)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Vessel of Ruin + Preservation (Harmony)  
-  - Tidbit: Now a Shard, balancing two opposing powers.
+  - Tidbit: A fused shard of Ruin and Preservation, conflicting goals and passions.
 
 - **Marsh (Human)**  
   - First Appearance: *Mistborn: The Final Empire*  
