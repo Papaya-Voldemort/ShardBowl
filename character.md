@@ -297,31 +297,27 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 ---
 
-## Lumar — Tress of the Emerald Sea
+## Secret Project Characters
 
-- **Tress (Island Girl)**  
-  - First Appearance: *Tress of the Emerald Sea*  
-  - Powers: None initially  
-  - Tidbit: Curious and kind, loves cups, dreams of adventure.
+-**Tress (Island Girl)**
+  - First Appearance: *Tress of The Emerald Sea*
+  - Powers: None, just an island girl
+  - Tidbit: Quirky island girl, loves cups.
 
-- **Tress (Pirate Adventurer)**  
-  - First Appearance: *Tress of the Emerald Sea*  
-  - Powers: Aether manipulation (spores)  
-  - Tidbit: Masters spore seas, becomes a bold and clever leader.
+-**Tress (Pirate Girl)**
+  - First Appearance: *Tress of The Emerald Sea*
+  - Powers: Aether Spore Manipulation
+  - Tidbit: 
 
----
+-****
+  - First Appearance: **
+  - Powers:
+  - Tidbit:
 
-## Canticle — The Sunlit Man
-
-- **Sigzil (Scribe)**  
-  - First Appearance: *The Way of Kings*  
-  - Powers: Windrunner squire (formerly)  
-  - Tidbit: Kaladin’s scribe, thoughtful and loyal.
-
-- **Sigzil (Nomad)**  
-  - First Appearance: *The Sunlit Man*  
-  - Powers: Investiture manipulation, worldhopping  
-  - Tidbit: Burdened by powers and immortality, wanders the Cosmere.
+-****
+  - First Appearance: **
+  - Powers:
+  - Tidbit:
 
 ---
 
