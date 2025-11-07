@@ -1,4 +1,4 @@
-# 🌌 Cosmere Character File (Expanded)
+# 🌌 Cosmere Character File 
 
 Each entry = one form of a character, with origin, first appearance, powers, and a short lore tidbit.
 
@@ -23,7 +23,7 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Vin (Street Urchin)**  
   - First Appearance: *Mistborn: The Final Empire*  
-  - Powers: None initially  
+  - Powers: Weak soothing abilities  
   - Tidbit: Distrustful and quiet, grew up abused in Luthadel’s underworld.
 
 - **Vin (Mistborn)**  
@@ -31,30 +31,30 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Full Allomancy (Mistborn)  
   - Tidbit: One of the most powerful Mistborn, intuitive fighter, bonded with Preservation.
 
-- **Vin (Ascendant)**  
+- **Vin (Ascendant Warrior)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Vessel of Preservation  
-  - Tidbit: Sacrificed herself to defeat Ruin, embodying Preservation’s power.
+  - Tidbit: Destroyed Ruin's armins and later sacrificed herself to defeat Ruin, embodying Preservation’s power.
 
 - **Elend Venture (Scholar)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: None initially  
-  - Tidbit: Idealistic nobleman, fascinated by democracy and books.
+  - Tidbit: Idealistic nobleman, fascinated by democracy and books, little to no combat experience.
 
-- **Elend Venture (Mistborn Emperor)**  
+- **Elend Venture (Last Emperor)**  
   - First Appearance: *The Well of Ascension*  
   - Powers: Mistborn (via Lerasium)  
-  - Tidbit: Ruled with Vin, balanced idealism with wartime necessity.
+  - Tidbit: Ruled with Vin, balanced idealism with wartime necessity, most pure/powerful mistborn in history but lacks skill.
 
 - **Sazed (Keeper)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Feruchemy  
-  - Tidbit: Terris scholar who preserved knowledge, gentle and thoughtful.
+  - Tidbit: Terris scholar who preserved knowledge, gentle and thoughtful but able to defend himself against powerful enemies.
 
 - **Sazed (Harmony)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Vessel of Ruin + Preservation (Harmony)  
-  - Tidbit: A fused shard of Ruin and Preservation, conflicting goals and passions.
+  - Tidbit: A fused shard of Ruin and Preservation, conflicting goals and passions, complete control over the kandra, koloss, and the Steel Inquisitors.
 
 - **Marsh (Human)**  
   - First Appearance: *Mistborn: The Final Empire*  
@@ -63,8 +63,8 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Marsh (Steel Inquisitor)**  
   - First Appearance: *Mistborn: The Final Empire*  
-  - Powers: Hemalurgic Allomancy, enhanced senses  
-  - Tidbit: Transformed into an Inquisitor, survived into Era 2 as “Ironeyes.”
+  - Powers: Hemalurgic Allomancy, enhanced senses, near Immortality  
+  - Tidbit: Transformed into an Inquisitor, became Ruin's greatest weapon/servant, survived into Era 2 as “Ironeyes", the most powerful survivor of Scadrial's rebirth.
 
 - **Spook (Tin-Eye)**  
   - First Appearance: *Mistborn: The Final Empire*  
@@ -73,8 +73,13 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Spook (Mistborn Hero of Urteau)**  
   - First Appearance: *The Hero of Ages*  
-  - Powers: Mistborn (via Hemalurgy)  
-  - Tidbit: Rose to leadership, became a symbol of rebellion.
+  - Powers: Tin+Pewter Allomancy (via Hemalurgy)  
+  - Tidbit: Rose to leadership, used tineye abilities to a fault, dangerous fighter and leader.
+
+-**Rashek (Lord Ruler)**
+- First Appearence *The Final Empire*
+- Powers: Remarkably powerful Allomancy and Feruchemy, Immortality
+- Tidbit: Nearly destroyed Scadrial trying to save it, cruel and ruthless ruler of the world, has nearly unlimited Allomantic Power .
 
 ---
 
@@ -83,22 +88,22 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 - **Waxillium Ladrian (Lawman)**  
   - First Appearance: *The Alloy of Law*  
   - Powers: Twinborn (Steel Allomancy + Iron Feruchemy)  
-  - Tidbit: Combines detective work with high-speed combat.
+  - Tidbit: Combines detective work with high-speed combat, very dangerous with a firearm, highly intellegent and skilled, a powerful force to be reckoned with.
 
-- **Waxillium Ladrian (Mistborn)**  
-  - First Appearance: *The Lost Metal*  
-  - Powers: Mistborn + Twinborn abilities  
-  - Tidbit: Gains Mistborn powers late in life, becomes Harmony’s sword.
+- **Waxillium Ladrian (Harmony's Sword)**  
+  - First Appearance: *The Bands of Mourning*  
+  - Powers: Wields the Bands of Mourning along with Twinborn abilities  
+  - Tidbit: Gains the full power of the Lord Ruler making him so powerful that only near-gods can contend with him.
 
-- **Wayne (Trickster)**  
+- **Wayne (Lawman)**  
   - First Appearance: *The Alloy of Law*  
   - Powers: Twinborn (Bendalloy Allomancy + Gold Feruchemy)  
-  - Tidbit: Comic relief, master of disguises, haunted by guilt.
+  - Tidbit: Comic relief, master of disguises, haunted by guilt, refuses to use anyform of firearm.
 
-- **Wayne (Heroic Sacrifice)**  
-  - First Appearance: *The Lost Metal*  
-  - Powers: Same as above  
-  - Tidbit: Gave his life to save millions, remembered as a legend.
+- **Wayne (Vengful)**  
+  - First Appearance: *The Bands of Mourning*  
+  - Powers: Twinborn (Bendalloy Allomancy + Gold  Feruchemy) 
+  - Tidbit: Wayne has a gun now, has a tendency to aim for the face.
 
 - **Steris Harms**  
   - First Appearance: *The Alloy of Law*  
@@ -126,12 +131,12 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Kaladin (Windrunner Radiant)**  
   - First Appearance: *Words of Radiance*  
-  - Powers: Surgebinding (Gravitation + Adhesion), Stormlight healing  
-  - Tidbit: Sworn to protect, one of the most skilled Radiants.
+  - Powers: Surgebinding (Gravitation + Adhesion), Stormlight healing, Full Shardbearer
+  - Tidbit: Sworn to protect, one of the most skilled Radiants, the sprear that would break
 
 - **Dalinar (Blackthorn)**  
   - First Appearance: *The Way of Kings*  
-  - Powers: None (pre-Radiant)  
+  - Powers: Shardbearer  
   - Tidbit: Feared warlord, brutal and unstoppable in battle.
 
 - **Dalinar (Bondsmith)**  
@@ -159,9 +164,9 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Elsecaller (Transportation + Transformation)  
   - Tidbit: Brilliant atheist scholar, ruthless in pursuit of truth.
 
-- **Jasnah (Elsecaller Queen)**  
+- **Jasnah (Alethi Queen)**  
   - First Appearance: *Rhythm of War*  
-  - Powers: Elsecaller  
+  - Powers: Elsecaller, Full Shardbearer  
   - Tidbit: Ascends to queenship, Radiant and political leader.
 
 - **Szeth (Truthless)**  
