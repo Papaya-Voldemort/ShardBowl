@@ -238,6 +238,11 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Returned, thousands of Breaths  
   - Tidbit: Mute and sheltered, but kind and powerful once freed.
 
+- **Night Blood (Sword)**
+  - First Appearance: *Warbreaker*
+  - Powers: **Investiture Consumption**, **Total Annihilation** (across all three Realms), **Sentience/Telepathy**
+  - Tidbit: Highly Invested sword created with the command "Destroy Evil"; constantly leaks black smoke and is dangerously *even* to its wielder.
+
 ---
 
 ## Sel — Elantris & The Emperor’s Soul
@@ -299,27 +304,87 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 ## Secret Project Characters
 
--**Tress (Island Girl)**
-  - First Appearance: *Tress of The Emerald Sea*
-  - Powers: None, just an island girl
-  - Tidbit: Quirky island girl, loves cups.
+- **Tress (Island Girl)**
+  - First Appearance: *Tress of The Emerald Sea*
+  - Powers: None, just an island girl
+  - Tidbit: Quirky island girl, loves cups, undertakes a perilous journey to save her love.
 
--**Tress (Pirate Girl)**
-  - First Appearance: *Tress of The Emerald Sea*
-  - Powers: Aether Spore Manipulation
-  - Tidbit: Acustomed to the sea, Tress is an expert at Aether Spores!
+- **Tress (Pirate Girl)**
+  - First Appearance: *Tress of The Emerald Sea*
+  - Powers: Aether Spore Manipulation (Verdant)
+  - Tidbit: Acustomed to the sea, Tress is an expert at Aether Spores and a reluctant pirate captain.
 
--****
-  - First Appearance: **
-  - Powers:
-  - Tidbit:
+- **Captain Crow (Spore Eater)**
+  - First Appearance: *Tress of the Emerald Sea*
+  - Powers: **Spore Eater** (Verdant Aether Symbiosis)
+  - Tidbit: A ruthless, nihilistic ship captain afflicted with a parasitic aether that grants her temporary immortality but constantly drains her of water.
 
--****
-  - First Appearance: **
-  - Powers:
-  - Tidbit:
+- **Captain Crow (Dragon's Vassal)**
+  - First Appearance: *Tress of the Emerald Sea* (Epilogue)
+  - Powers: **Verdant Aether** (Conditioned)
+  - Tidbit: Forced into service by the dragon Xisis after her defeat, she retains her abilities but is now bound to a master.
 
----
+- **Captain Crow (Interim Captain)**
+  - First Appearance: *Isles of the Emberdark* (Implied)
+  - Powers: **Verdant Aether** (Conditioned, Limited)
+  - Tidbit: Implied to be commanding the ship *The Dynamic* in the sequel, navigating complex duties under Xisis's oversight.
+
+- **Yumi (Yoki-Hijo)**
+  - First Appearance: *Yumi and the Nightmare Painter*
+  - Powers: **Spirit Summoning** (through ritual stone stacking)
+  - Tidbit: Lived a thousand years in a time loop, sacrificing her life to serve as a high priestess and summon spirits for her people.
+
+- **Yumi (The Painter's Art)**
+  - First Appearance: *Yumi and the Nightmare Painter*
+  - Powers: Highly Invested Cognitive Shadow, **Spirit Summoning/Manipulation**
+  - Tidbit: Restored with a new body by Nikaro's art and intent, now highly Invested and free from her ritualistic past.
+
+- **Nikaro (The Painter)**
+  - First Appearance: *Yumi and the Nightmare Painter*
+  - Powers: **Nightmare Painting** (Sumi-e style to capture entities)
+  - Tidbit: An unappreciated artist in a dark, technological city who hunts nightmares.
+
+- **Nikaro (The Stacker)**
+  - First Appearance: *Yumi and the Nightmare Painter*
+  - Powers: **Spirit Summoning** (via body swap), **Nightmare Painting**
+  - Tidbit: Forced to learn Yumi's craft while in her body, gaining a deeper understanding of both arts and connection.
+
+- **Sigzil (Windrunner)**
+  - First Appearance: *The Way of Kings* (as a minor character), *The Sunlit Man* (as main character)
+  - Powers: Windrunner Surgebinding
+  - Tidbit: Originally a soldier of Bridge Four on Roshar and a former apprentice of Hoid.
+
+- **Sigzil (Nomad)**
+  - First Appearance: *The Sunlit Man*
+  - Powers: Highly Invested, uses **Investiture-based technology** (Auxiliary), **Worldhopping**
+  - Tidbit: On the run across the Cosmere after bearing a Dawnshard; a Skybreaker's spren (Auxiliary) is now part of his strange technological "shardplate."
+  
+- **The Cinder King (Ruler)**
+  - First Appearance: *The Sunlit Man*
+  - Powers: **Investiture Siphoning**, Enhanced Strength
+  - Tidbit: The tyrannical ruler of the planet Canticle who uses a technological suit to steal the Investiture of those he executes.
+
+- **Sixth of the Dusk (Trapper)**
+  - First Appearance: *Sixth of the Dusk* (Novella)
+  - Powers: **Aviar Bond** (Death, Mind-Protection)
+  - Tidbit: A traditional trapper on Patji who bonds with Aviar to survive the lethal island environment.
+
+- **Sixth of the Dusk (Worldhopper)**
+  - First Appearance: *Isles of the Emberdark*
+  - Powers: Aviar Bond
+  - Tidbit: Now a traveler in the Cognitive Realm, seeking to protect his people from Scadrian and Rosharan interference.
+
+- **Starling (Bound)**
+  - First Appearance: *Isles of the Emberdark*
+  - Powers: **Dragon**
+  - Tidbit: A powerful young dragon chained in human form as punishment; commands the starship *Dynamic* and seeks to repay a debt to Xisis.
+
+- **Starling (Unbound)**
+  - First Appearance: *Isles of the Emberdark*
+  - Powers: Dragon/Human form, Hoid's Apprentice
+  - Tidbit: The reluctant but highly moral captain of *The Dynamic*, navigating the Emberdark (Shadesmar) with a ragtag crew of exiles.
+
+  ---
 
 ## Worldhoppers & Others
 
