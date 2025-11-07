@@ -30,6 +30,24 @@
   - Win Condition: Get the other team's flag back to your base.
   - Notes: This is a fight to the death event, but upon death, the participants are sent to Braize (Hell Btw) and respawn after 8 minutes.
 
+## Contest of Champions
+  - Description: A Contest of Champions, the ultimate battle! The competitor with the least investment picks the type of contest.
+  - Rules: All contests must be very high stakes.
+  - Win Condition: Determined by the type of contest.
+  - Notes: If the amount of investiture is undeterminable, an unnamed shard will step in and select a fight to the death as the event.
+
+## Name
+  - Description: 
+  - Rules: 
+  - Win Condition: 
+  - Notes:
+
+## Name
+  - Description: 
+  - Rules: 
+  - Win Condition: 
+  - Notes:
+
 ## Name
   - Description: 
   - Rules: 
