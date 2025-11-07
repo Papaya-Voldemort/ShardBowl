@@ -24,11 +24,11 @@
   - Win Condition: The competitor that sways the council to vote for their assigned view is the winner.
   - Notes: Event ends after a 1-hour debate period, followed by a final vote of the council.
     
-## Name
-  - Description: 
-  - Rules: 
-  - Win Condition: 
-  - Notes:
+## Strategic Team Combat
+  - Description: A fun game of capture the flag! Participants are given 10 minutes to hide their flag, and then the game begins!
+  - Rules: All powers allowed, no moving your flag after it's placed, fight to the death.
+  - Win Condition: Get the other team's flag back to your base.
+  - Notes: This is a fight to the death event, but upon death, the participants are sent to Braize (Hell Btw) and respawn after 3 minutes.
 
 ## Name
   - Description: 
