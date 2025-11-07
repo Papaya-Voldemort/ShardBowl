@@ -28,7 +28,7 @@
   - Description: A fun game of capture the flag! Participants are given 10 minutes to hide their flag, and then the game begins!
   - Rules: All powers allowed, no moving your flag after it's placed, fight to the death.
   - Win Condition: Get the other team's flag back to your base.
-  - Notes: This is a fight to the death event, but upon death, the participants are sent to Braize (Hell Btw) and respawn after 3 minutes.
+  - Notes: This is a fight to the death event, but upon death, the participants are sent to Braize (Hell Btw) and respawn after 8 minutes.
 
 ## Name
   - Description: 
