@@ -10,76 +10,91 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: None  
   - Tidbit: A skilled thief before his capture, scarred by betrayal and the Pits of Hathsin.
+  - bullet:
 
 - **Kelsier (Mistborn)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Full Allomancy (Mistborn)  
   - Tidbit: Charismatic rebel leader, inspired the skaa to rise up against the Lord Ruler.
+  - bullet:
 
 - **Kelsier (Cognitive Shadow)**  
   - First Appearance: *Mistborn: Secret History*  
   - Powers: Cognitive persistence, meddling with worldhopping  
   - Tidbit: Refused to pass on after death, continues to influence the Cosmere, can't leave the cognitive realm without an external aid.
+  - bullet:
 
 - **Vin (Street Urchin)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Weak soothing abilities  
   - Tidbit: Distrustful and quiet, grew up abused in Luthadel’s underworld.
+  - bullet:
 
 - **Vin (Mistborn)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Full Allomancy (Mistborn)  
   - Tidbit: One of the most powerful Mistborn, intuitive fighter, bonded with Preservation.
+  - bullet:
 
 - **Vin (Ascendant Warrior)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Vessel of Preservation  
   - Tidbit: Destroyed Ruin's armins and later sacrificed herself to defeat Ruin, embodying Preservation’s power.
+  - bullet:
 
 - **Elend Venture (Scholar)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: None initially  
   - Tidbit: Idealistic nobleman, fascinated by democracy and books, little to no combat experience.
+  - bullet:
 
 - **Elend Venture (Last Emperor)**  
   - First Appearance: *The Well of Ascension*  
   - Powers: Mistborn (via Lerasium)  
   - Tidbit: Ruled with Vin, balanced idealism with wartime necessity, most pure/powerful mistborn in history but lacks skill.
+  - bullet:
 
 - **Sazed (Keeper)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Feruchemy  
   - Tidbit: Terris scholar who preserved knowledge, gentle and thoughtful but able to defend himself against powerful enemies.
+  - bullet:
 
 - **Sazed (Harmony)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Vessel of Ruin + Preservation (Harmony)  
   - Tidbit: A fused shard of Ruin and Preservation, conflicting goals and passions, complete control over the kandra, koloss, and the Steel Inquisitors.
+  - bullet:
 
 - **Marsh (Human)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: None initially  
   - Tidbit: Kelsier’s brother, serious and principled, joined the rebellion.
+  - bullet:
 
 - **Marsh (Steel Inquisitor)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Hemalurgic Allomancy, enhanced senses, near Immortality  
   - Tidbit: Transformed into an Inquisitor, became Ruin's greatest weapon/servant, survived into Era 2 as “Ironeyes", the most powerful survivor of Scadrial's rebirth.
+  - bullet:
 
 - **Spook (Tin-Eye)**  
   - First Appearance: *Mistborn: The Final Empire*  
   - Powers: Allomantic Tin  
   - Tidbit: Youngest crew member, underestimated but loyal.
+  - bullet:
 
 - **Spook (Mistborn Hero of Urteau)**  
   - First Appearance: *The Hero of Ages*  
   - Powers: Tin+Pewter Allomancy (via Hemalurgy)  
   - Tidbit: Rose to leadership, used tineye abilities to a fault, dangerous fighter and leader.
+  - bullet:
 
 -**Rashek (Lord Ruler)**
 - First Appearence *The Final Empire*
 - Powers: Remarkably powerful Allomancy and Feruchemy, Immortality
 - Tidbit: Nearly destroyed Scadrial trying to save it, cruel and ruthless ruler of the world, has nearly unlimited Allomantic Power .
+- bullet:
 
 ---
 
