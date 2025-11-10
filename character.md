@@ -149,10 +149,10 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Lightweaver (Illusions, Soulcasting)  
   - Tidbit: Spy persona, bold and confident, hides Shallan’s pain.
 
-- **Shallan (Radiant)**  
+- **Shallan (Lightweaver)**  
   - First Appearance: *Oathbringer*  
-  - Powers: Lightweaver  
-  - Tidbit: Warrior persona, embodies strength and decisiveness.
+  - Powers: Lightweaver (Illusions, Soulcasting), Full Shardbearer (2 blades)  
+  - Tidbit: Capable artist and warrior, skilled spy, completely loyal to friends and family, wields both Pattern and a slightly healed Testament.
 
 - **Shallan (Formless)**  
   - First Appearance: *Rhythm of War*  
@@ -186,12 +186,12 @@ Each entry = one form of a character, with origin, first appearance, powers, and
 
 - **Lift (Edgedancer)**  
   - First Appearance: *Edgedancer*  
-  - Powers: Surgebinding (Progression + Abrasion)  
+  - Powers: Surgebinding (Progression + Abrasion), Radiant Shardblade  
   - Tidbit: Sworn to care for the forgotten, compassionate and fast.
 
 - **Renarin (Truthwatcher)**  
   - First Appearance: *Words of Radiance*  
-  - Powers: Truthwatcher Surgebinding (corrupted)  
+  - Powers: Truthwatcher Surgebinding (corrupted), Radiant Shardblade  
   - Tidbit: Sees possible futures, struggles with identity.
 
 - **Adolin (Duelist)**  
@@ -199,10 +199,10 @@ Each entry = one form of a character, with origin, first appearance, powers, and
   - Powers: Shardbearer  
   - Tidbit: Skilled swordsman, charismatic and loyal.
 
-- **Adolin (Maya’s Bond)**  
-  - First Appearance: *Rhythm of War*  
-  - Powers: Reviving a deadeye spren  
-  - Tidbit: First to show signs of restoring a dead Shardblade.
+- **Adolin (Unoathed)**  
+  - First Appearance: *Wind and Truth*  
+  - Powers: Radiant Shardbearer (all Shards now function as radiant shards); No other radiant abililies. 
+  - Tidbit: First to restore dead Shards back to their original abilities.
 
 ---
 
